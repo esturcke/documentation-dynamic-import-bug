@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+/**
+ * The main App component
+ */
 class App extends Component {
   render() {
     return (
